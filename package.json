@@ -1,0 +1,12 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabriegsti/es6.git",
+  "author": "gabriegsti <gabrielgs_2012@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/preset-env": "^7.8.3"
+  }
+}
