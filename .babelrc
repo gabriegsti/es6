@@ -1,0 +1,9 @@
+/* Transforma as features
+ para um forma
+ que todos os navegadores entendam.*/
+ 
+ {
+     /* Converte as features 
+     para vários ambientes*/
+     "presets":["@babel/preset-env"]
+ }
